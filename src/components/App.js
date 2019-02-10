@@ -8,11 +8,7 @@ import {
   Wrapper
 } from '../styles.js';
 
-<<<<<<< HEAD
 export default class App extends Component {
-=======
-class App extends Component {
->>>>>>> 8386796dec32488dba8a43ce73684a4e0f882705
   render() {
     return (
       <Wrapper>
@@ -26,8 +22,3 @@ class App extends Component {
     );
   }
 }
-<<<<<<< HEAD
-=======
-
-export default App;
->>>>>>> 8386796dec32488dba8a43ce73684a4e0f882705
